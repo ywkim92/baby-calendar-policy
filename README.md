@@ -50,7 +50,7 @@ iOS 의 기본 iCloud 백업이 활성화된 경우, 앱 데이터가 Apple 의 
 ## 7. 개인정보 보호책임자 및 문의처
 
 - 개발자: 김영운
-- 문의: kyw6419@gmail.com
+- 문의: yeongwoon.k@gmail.com
 
 ## 8. 본 방침의 변경
 
